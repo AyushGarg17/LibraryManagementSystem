@@ -1,3 +1,4 @@
+package com.library.model;
 public class Admin {
     private String username = "admin";
     private String password = "1234";
